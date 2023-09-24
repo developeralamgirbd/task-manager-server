@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "/home/alamgir/var/www/mern-taskmanager/backend/logs/winston/successes/.ce4ba875cb921efa7a90203fc213cd391bc6e624-audit.json",
+    "files": [
+        {
+            "date": 1695485627209,
+            "name": "/home/alamgir/var/www/mern-taskmanager/backend/logs/winston/successes/23-09-2023-22-success.log",
+            "hash": "ad027aa9efd05b2bb51ed0839b74ea21de686c3d5c6f1b440b7e3af015f61ced"
+        }
+    ],
+    "hashType": "sha256"
+}
